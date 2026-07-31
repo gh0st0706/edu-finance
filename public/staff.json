@@ -1,0 +1,57 @@
+[
+  {
+    "id": "EMP001",
+    "name": "Dr. Meera Iyer",
+    "employeeId": "FAC1001",
+    "department": "Computer Science",
+    "designation": "Professor",
+    "salary": 98000,
+    "email": "meera.iyer@edufin.edu",
+    "phone": "9123456780",
+    "payStatus": "Paid"
+  },
+  {
+    "id": "EMP002",
+    "name": "Rajesh Kumar",
+    "employeeId": "ACC2001",
+    "department": "Finance",
+    "designation": "Accounts Officer",
+    "salary": 72000,
+    "email": "rajesh.kumar@edufin.edu",
+    "phone": "9123456781",
+    "payStatus": "Paid"
+  },
+  {
+    "id": "EMP003",
+    "name": "Anita Thomas",
+    "employeeId": "FAC1002",
+    "department": "Electronics",
+    "designation": "Associate Professor",
+    "salary": 85000,
+    "email": "anita.thomas@edufin.edu",
+    "phone": "9123456782",
+    "payStatus": "Pending"
+  },
+  {
+    "id": "EMP004",
+    "name": "Suresh Rao",
+    "employeeId": "ADM3001",
+    "department": "Administration",
+    "designation": "Admin Officer",
+    "salary": 65000,
+    "email": "suresh.rao@edufin.edu",
+    "phone": "9123456783",
+    "payStatus": "Paid"
+  },
+  {
+    "id": "EMP005",
+    "name": "Neha Gupta",
+    "employeeId": "FAC1003",
+    "department": "Mechanical",
+    "designation": "Assistant Professor",
+    "salary": 76000,
+    "email": "neha.gupta@edufin.edu",
+    "phone": "9123456784",
+    "payStatus": "Pending"
+  }
+]
