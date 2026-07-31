@@ -54,12 +54,9 @@ function Login({ onLogin }: { onLogin: (role: Role) => void }) {
         </div>
         <div className="max-w-sm">
           <p className="font-display text-xl leading-snug">
-            Every rupee accounted for, every approval traceable, one system for the whole institution.
+            AI-driven financial dashboard for educational institutions, helping you manage fees, scholarships, and more.
           </p>
           <div className="mt-6 flex gap-6 text-xs font-mono text-white/50">
-            <span>OCR-VERIFIED</span>
-            <span>AUDIT-LOGGED</span>
-            <span>ROLE-SCOPED</span>
           </div>
         </div>
       </div>
